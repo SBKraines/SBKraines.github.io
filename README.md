@@ -11,7 +11,7 @@
 
 We need $200 to produce each song of Perek Shira, just to cover the costs.
 
-To dedicate and to confer, [info@songofexistence.org](please email us).
+To dedicate and to confer, [please email us](info@songofexistence.org).
 
 # Order
 

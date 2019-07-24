@@ -2,10 +2,10 @@
 
 # Donors
 
-| Donor | Amount | Dedication |
-| ----- | :----: | ---------: |
-|       |        |            |
-|       |        |            |
+| Donor   | Amount | Dedication |
+| -----   | :----: | ---------: |
+|Anonymous| $240       |            |
+|         |        |            |
 
 [Click here to donate your share now through PayPal](www.paypal.com)
 

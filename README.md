@@ -1,4 +1,3 @@
-Perek Shira
 ![alt text](assets/Logo.png "Perek Shira: Song Of Existence")
 
 # Donors
@@ -17,8 +16,10 @@ To dedicate and to confer, [please email us](info@songofexistence.org).
 # Order
 
 Click here to order the Sefer at a low price.
+
 Click here to preview it.
-Links:
-[![Foo](assets/Elephant-video-logo.png)]()
+
+# Links
+[![Foo](assets/Elephant-video-logo.png)]() Watch the video presentation. View the text version.
 [![Foo](assets/Elephant-text-logo.png)]()
 

@@ -1,4 +1,4 @@
-![alt text](assets/perk.mp4 "Perek Shira: Song Of Existence")
+![alt text](assets/logo.png "Perek Shira: Song Of Existence")
 
 # Donors
 

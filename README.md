@@ -1,10 +1,11 @@
-![alt text](assets/logo.png "Perek Shira: Song Of Existence")
+Perek Shira
+![alt text](assets/Logo.png "Perek Shira: Song Of Existence")
 
 # Donors
 
 | Donor   | Donation | Sponsorship | Dedication |
 | -----   | :----: | :----: |---------: |
-|Anonymous| $240   | The Song of the Elephant|:----: |            |
+|Anonymous| $240   | The Song of the Elephant|            |
 |         |        |            |
 
 [Click here to donate your share now through PayPal](www.paypal.com)

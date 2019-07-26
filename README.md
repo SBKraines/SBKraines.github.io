@@ -20,6 +20,6 @@ Click here to order the Sefer at a low price.
 Click here to preview it.
 
 # Links
-[![Foo](assets/Elephant-video-logo.png)]() Watch the video presentation. View the text version.
-[![Foo](assets/Elephant-text-logo.png)]()
+[![Foo](assets/Elephant-video-logo.png)]()
+[Click here to view the text version of "The Song of the Elephant"](assets/sample3.pdf)
 

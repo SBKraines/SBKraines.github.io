@@ -17,8 +17,9 @@ Said Rebbi: Anyone who involves himself in Perek Shira in this world merits to l
 to fulfill, his learning is retained in his hand, he is saved from the Yetzer Hara, bad incidents, blows  of the grave, the judgment of 
 Gehinnom and the birth-pangs of Mashiach, merits long life, and merits to the days of Mashiach and the life of the World to Come.
 
-[Click here to donate your share now through PayPal. Send your donation to email address: donations@songofexistence.org](www.paypal.com)
-
+You can donate to our important project now through paypal.com. At Paypal, direct your donation to email address: 
+donations@songofexistence.org.
+[Click here to donate now.](www.paypal.com)
 
 To dedicate and to confer, [please email us](info@songofexistence.org).
 

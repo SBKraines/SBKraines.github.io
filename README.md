@@ -19,6 +19,7 @@ Gehinnom and the birth-pangs of Mashiach, merits long life, and merits to the da
 
 You can donate to our important project now through paypal.com. At Paypal, direct your donation to email address: 
 donations@songofexistence.org.
+
 [Click here to donate now.](www.paypal.com)
 
 To dedicate and to confer, [please email us](info@songofexistence.org).
@@ -27,12 +28,13 @@ To dedicate and to confer, [please email us](info@songofexistence.org).
 
 The Sefer is available for purchase at a low price on Lulu.com self-publishing web-site. Its full name is "Perek Shira: The Song of 
 Existence", by Shmuel B. Kraines.
-[Click here to order the Sefer.] (lulu.com)
+[Click here to order the Sefer.] (www.lulu.com)
 
 [Click here to preview it.](assets/sample preview.pdf)
 
 # Links
+
 [![Foo](assets/Elephant-video-logo.png)]()
 
-[Click here to view the text version of "The Song of the Elephant"](assets/sample3.pdf)
+[Click here to view the text version of "The Song of the Elephant"](assets/elephant.pdf)
 

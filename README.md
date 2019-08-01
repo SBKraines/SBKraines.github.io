@@ -33,5 +33,6 @@ Existence", by Shmuel B. Kraines.
 
 # Links
 [![Foo](assets/Elephant-video-logo.png)]()
+
 [Click here to view the text version of "The Song of the Elephant"](assets/sample3.pdf)
 

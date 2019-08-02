@@ -30,7 +30,7 @@ The Sefer is available for purchase at a low price on Lulu.com self-publishing w
 Existence", by Shmuel B. Kraines.
 [Click here to order the Sefer.] (www.lulu.com)
 
-[Click here to preview it.](assets/sample preview.pdf)
+[Click here to preview it.](https://github.com/SBKraines/song-of-existence/edit/master/README.md/assets/sample preview.pdf)
 
 # Links
 

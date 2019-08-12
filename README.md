@@ -18,9 +18,7 @@ to fulfill, his learning is retained in his hand, he is saved from the Yetzer Ha
 Gehinnom and the birth-pangs of Mashiach, merits long life, and merits to the days of Mashiach and the life of the World to Come.
 
 You can donate to our important project now through paypal.com. At Paypal, direct your donation to email address: 
-donations@songofexistence.org.
-
-[Click here to donate now through paypal.com.](www.paypal.com)
+donations@songofexistence.org. [Click here to donate now.](www.paypal.com)
 
 To dedicate and to confer, [please email us at donations@songofexistence.org](mailto:donations@songofexistence.org). Our email address for questions and requests of any topic 
 other than donations is [info@songofexistence.org](mailto:info@songofexistence.org).
@@ -31,11 +29,11 @@ The Sefer is available for purchase at a low price on Lulu.com self-publishing w
 Existence", by Shmuel B. Kraines.
 [Click here to order the Sefer.] (www.lulu.com)
 
-[Click here to preview it.](https://github.com/SBKraines/song-of-existence/edit/master/README.md/sample preview.pdf)
+[Click here to preview it.](sample preview.pdf)
 
 # Links
 
 [![Foo](assets/Elephant-video-logo.png)]()
 
-[Click here to view the text version of "The Song of the Elephant"](assets/elephant.pdf)
+[Click here to view the text version of "The Song of the Elephant"](elephant.pdf)
 

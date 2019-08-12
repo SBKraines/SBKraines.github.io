@@ -18,8 +18,10 @@ The Song of Existence project is a production of inspirational Torah videos dist
 of viewers worldwide. They are produced one at a time, with no precedent funding to determine the length of the series. The project is 
 therefore dependent entirely on public interest and contribution. All donations are used just to cover costs, which are a modest $230 
 per professional video. You can donate any amount using Paypal and direct the donation to our email address: 
-donations@songofexistence.org. You can email us to confer and to dedicate. All donations made to the project are displayed below, unless 
-otherwise requested. 
+donations@songofexistence.org. You can email us at this address to confer and to dedicate. All donations made to the project are 
+displayed below, unless otherwise requested. 
+
+You can contact the auther with any question or request on Perek Shira and the "Song of Existence" project at info@songofexistence.org.
 
 # Donors
 
@@ -37,17 +39,11 @@ Said Rebbi: Anyone who involves himself in Perek Shira in this world merits to l
 to fulfill, his learning is retained in his hand, he is saved from the Yetzer Hara, bad incidents, blows  of the grave, the judgment of 
 Gehinnom and the birth-pangs of Mashiach, merits long life, and merits to the days of Mashiach and the life of the World to Come.
 
-You can donate to our important project now through paypal.com. At Paypal, direct your donation to email address: 
-donations@songofexistence.org. [Click here to donate now.](www.paypal.com)
-
-To dedicate and to confer, [please email us at donations@songofexistence.org](mailto:donations@songofexistence.org). Our email address 
-for questions and requests of any topic other than donations is [info@songofexistence.org](mailto:info@songofexistence.org).
-
 # Order
 
 The Sefer is available for purchase at a low price on Lulu.com self-publishing web-site. Its full name is "Perek Shira: The Song of 
-Existence", by Shmuel B. Kraines.
-[Click here to order the Sefer.] (www.lulu.com)
+Existence", by Shmuel B. Kraines. It will be available for purchase in a few days.
+`[Click here to order the Sefer.] (www.lulu.com)`
 
 [Click here to preview it.](sample preview.pdf)
 

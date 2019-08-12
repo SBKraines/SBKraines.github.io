@@ -20,9 +20,10 @@ Gehinnom and the birth-pangs of Mashiach, merits long life, and merits to the da
 You can donate to our important project now through paypal.com. At Paypal, direct your donation to email address: 
 donations@songofexistence.org.
 
-[Click here to donate now.](www.paypal.com)
+[Click here to donate now through paypal.com.](www.paypal.com)
 
-To dedicate and to confer, [please email us](info@songofexistence.org).
+To dedicate and to confer, [please email us at donations@songofexistence.org](mailto:donations@songofexistence.org). Our email address for questions and requests of any topic 
+other than donations is [info@songofexistence.org](mailto:info@songofexistence.org).
 
 # Order
 
@@ -30,7 +31,7 @@ The Sefer is available for purchase at a low price on Lulu.com self-publishing w
 Existence", by Shmuel B. Kraines.
 [Click here to order the Sefer.] (www.lulu.com)
 
-[Click here to preview it.](https://github.com/SBKraines/song-of-existence/edit/master/README.md/assets/sample preview.pdf)
+[Click here to preview it.](https://github.com/SBKraines/song-of-existence/edit/master/README.md/sample preview.pdf)
 
 # Links
 

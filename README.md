@@ -44,9 +44,9 @@ Gehinnom and the birth-pangs of Mashiach, merits long life, and merits to the da
 The Sefer is available for purchase at a low price on Lulu.com self-publishing web-site. Its full name is "Perek Shira: The Song of 
 Existence", by Shmuel B. Kraines. It will be available for purchase in a few days.
 
-[Click here to order the Sefer](www.lulu.com).
+[Click here to order the Sefer](https://www.lulu.com).
 
-[Click here for preview](assets/sample\ preview.pdf)
+[Click here for preview](assets/Sample%20Preview.pdf)
 
 # Links
 

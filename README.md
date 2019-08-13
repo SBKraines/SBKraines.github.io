@@ -52,5 +52,5 @@ Existence", by Shmuel B. Kraines. It will be available for purchase in a few day
 
 [![Elephant image](assets/Elephant-video-logo.png)]()
 
-[Click here to view the text version of "The Song of the Elephant"](assets/elephant.pdf)
+[Click here to view the text version of "The Song of the Elephant"](assets/Elephant.pdf)
 

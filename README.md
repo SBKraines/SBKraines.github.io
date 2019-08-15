@@ -1,5 +1,4 @@
-`![Logo](assets/Logo.png "Perek Shira: Song Of Existence")`
-(assets/perek.mp4)
+![Logo](assets/Logo.png "Perek Shira: Song Of Existence")
 
 “Hashem created the universe to sing to Him. Each element of creation brings out a different aspect, revealing Hashem’s majesty and 
 flawless benevolence. The song are constant, filling the earth and the heavens. Even if the animals and inanimate creations have no 

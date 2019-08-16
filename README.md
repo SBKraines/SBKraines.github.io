@@ -50,7 +50,7 @@ Existence", by Shmuel B. Kraines.
 
 # Links
 
-[![Elephant image](assets/Elephant-video-logo.png)](https://drive.google.com/file/d/1RpUPj6Na6NWgbkbhCtHoAUBiRB_5skiu/view)
+[![Elephant image](assets/Elephant-video-logo.png)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
 
 [Click here to view the text version of "The Song of the Elephant"](assets/Elephant.pdf)
 

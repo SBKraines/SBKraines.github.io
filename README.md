@@ -33,9 +33,9 @@ We thank the supporters of this project. We require $230 per video in order to c
 | Donor   | Donation | Sponsorship | Dedication |
 | -----   | :----: | :----: |---------: |
 |Anonymous| $230   | The Song of the Elephant|            |
-|         |        |            |
+|Anonymous| $230 |            |
 
-(Table last updated on 17 Menachem Av)
+(Table last updated on 19 Menachem Av)
 
 The reward promised to one who involves himself with Perek Shira is immense. This surely applies equally to one who supports its 
 dissemination. As it says in the introduction of Perek Shira:

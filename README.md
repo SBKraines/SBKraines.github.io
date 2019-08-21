@@ -33,9 +33,11 @@ We thank the supporters of this project. We require $230 per video in order to c
 | Donor   | Donation | Sponsorship | Dedication |
 | -----   | :----: | :----: |---------: |
 |Anonymous| $230   | The Song of the Elephant|            |
-|Anonymous| $230 |            |
+|Shoshana Packouz| $230 |Upcoming Song #2| May all the men and women searching for their *zivug*
+be *zocheh* to add their own personal *Shira* to the world|
+|Miriam Esther Ruderman| $15   | Upcoming Song #3|            |
 
-(Table last updated on 19 Menachem Av)
+(Table last updated on 20 Menachem Av)
 
 The reward promised to one who involves himself with Perek Shira is immense. This surely applies equally to one who supports its 
 dissemination. As it says in the introduction of Perek Shira:

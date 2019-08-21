@@ -6,25 +6,24 @@ mouths with which to sing, their very existence and function form a constant son
 their message if we, the conductors, utter the verses that they sing and live according to their meaning. These songs, collected in 
 Perek Shira, were traditionally composed by Dovid Hamelech and Shlomo Hamelech. The Sages speak at length of its recital and the reward 
 of one who involves himself with it.”
-(Excerpt from the Sefer “Perek Shira: The Song of Existence”, a comprehensive inspirational commentary on Perek Shira by R’ Shmuel 
-Kraines, upon which these videos are based. It has the approbation of Rabbi Ze’ev Kraines, rabbi of Ohr Somayach Sandton, South Africa.)
+*(Excerpt from the Sefer “Perek Shira: The Song of Existence”, a comprehensive inspirational commentary on Perek Shira by R’ Shmuel 
+Kraines, upon which these videos are based. It has the approbation of Rabbi Ze’ev Kraines, rabbi of Ohr Somayach Sandton, South Africa.)*
+
+The Song of Existence project is a production of inspirational Torah videos distributed free of charge and intended to reach thousands 
+of viewers worldwide. They are produced one at a time, with no precedent funding to determine the length of the series. The project is 
+therefore dependent entirely on public interest and contribution. All donations are used just to cover costs, which are a modest $230 
+per professional video. We need these donations to keep flowing in order to continue the project.
+
+# [Click here to sponsor a Perek Shira video via Paypal (PayPal email address: donations@songofexistence.org)]
+
+The receipt you will receive from PayPal will display the legal account name "Sklar". You can email us at this address to confer and to dedicate. All donations made to the project are displayed below, unless otherwise requested. 
+
+You can contact the author with any question or request on Perek Shira and the "Song of Existence" project at info@songofexistence.org.
 
 Each video is comprised of two parts. The first part explains how the creature sings its verse through the meaning of its existence. The 
 second part teaches how we can live our lives with the virtue expressed by the song. In essence, we are then singing this song with our 
 own existence. Ultimately, the series shows how the life of each Jew is a song-script of unique praise of the Creator. Watch our 
 presentations and learn how to read the music of the world.
-
-The Song of Existence project is a production of inspirational Torah videos distributed free of charge and intended to reach thousands 
-of viewers worldwide. They are produced one at a time, with no precedent funding to determine the length of the series. The project is 
-therefore dependent entirely on public interest and contribution. All donations are used just to cover costs, which are a modest $230 
-per professional video.
-
-You can donate any amount using [PayPal](http://www.paypal.com) and direct the donation to our email address: 
-donations@songofexistence.org. The receipt you will receive from PayPal will display the legal account name "Sklar". You can email us at 
-this address to confer and to dedicate. All donations made to the project are 
-displayed below, unless otherwise requested. 
-
-You can contact the author with any question or request on Perek Shira and the "Song of Existence" project at info@songofexistence.org.
 
 # Donors
 

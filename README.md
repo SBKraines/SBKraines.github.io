@@ -12,9 +12,9 @@ Kraines, upon which these videos are based. It has the approbation of Rabbi Zeâ€
 The Song of Existence project is a production of inspirational Torah videos distributed free of charge and intended to reach thousands 
 of viewers worldwide. They are produced one at a time, with no precedent funding to determine the length of the series. The project is 
 therefore dependent entirely on public interest and contribution. All donations are used just to cover costs, which are a modest $230 
-per professional video. We need these donations to keep flowing in order to continue the project.
+per professional video. We can only begin the next production after the necessary sponsorship has been made. Donate, dedicate, merit.
 
-# [Click here to sponsor a Perek Shira video via Paypal (PayPal email address: donations@songofexistence.org)]
+# [Click here to sponsor a Perek Shira video via Paypal (PayPal email address: donations@songofexistence.org)](http://www.paypal.com)
 
 The receipt you will receive from PayPal will display the legal account name "Sklar". You can email us at this address to confer and to dedicate. All donations made to the project are displayed below, unless otherwise requested. 
 

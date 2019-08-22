@@ -15,7 +15,7 @@ therefore dependent entirely on public interest and contribution. All donations 
 per professional video. We can only begin the next production after the necessary sponsorship has been made. Donate, dedicate, merit.
 
 # [Click here to sponsor a Perek Shira video via Paypal](http://www.paypal.com)
-(PayPal email address: donations@songofexistence.org)
+                  *(PayPal email address: donations@songofexistence.org)*
 
 The receipt you will receive from PayPal will display the legal account name "Sklar". You can email us at this address to confer and to dedicate. All donations made to the project are displayed below, unless otherwise requested. 
 
@@ -51,7 +51,7 @@ Gehinnom and the birth-pangs of Mashiach, merits long life, and merits to the da
 The Sefer is available for purchase at a low price on Lulu.com self-publishing web-site. Its full name is "Perek Shira: The Song of 
 Existence", by Shmuel B. Kraines. 
 
-[Click here to order the Sefer](http://www.lulu.com/content/paperback-book/perek-shira-the-song-of-existence/24652186).
+[Click here to order the Sefer](http://www.lulu.com/content/paperback-book/perek-shira-the-song-of-existence/24652186). 
 
 [Click here for preview](assets/Sample%20Preview.pdf)
 

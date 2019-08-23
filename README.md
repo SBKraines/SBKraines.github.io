@@ -14,8 +14,8 @@ of viewers worldwide. They are produced one at a time, with no precedent funding
 therefore dependent entirely on public interest and contribution. All donations are used just to cover costs, which are a modest $230 
 per professional video. We can only begin the next production after the necessary sponsorship has been made. Donate, dedicate, merit.
 
-       # [Click here to sponsor a Perek Shira video via Paypal](http://www.paypal.com)
-                          PayPal email address: donations@songofexistence.org
+   # [Click here to sponsor a Perek Shira video via Paypal](http://www.paypal.com)
+                      PayPal email address: donations@songofexistence.org
 
 The receipt you will receive from PayPal will display the legal account name "Sklar". You can email us at this address to confer and to dedicate. All donations made to the project are displayed below, unless otherwise requested. 
 

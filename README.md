@@ -55,14 +55,23 @@ Existence", by Shmuel B. Kraines.
 
 [Click here for preview](assets/Sample%20Preview.pdf)
 
-# Videos and their Sources
+# VIDEOS AND THEIR SOURCES
 
-[![Elephant image](assets/Elephant-video-logo.png)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
-[![Elephant image](assets/Elephant2.pdf)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
+# [The Song of the Elephant Video](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
 
 [Click here to view the text version of "The Song of the Elephant"](assets/Elephant.pdf)
 
-[![Zebra image](assets/Zebra.pdf)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
+# [The Song of the Beasts of the Field Video](https://drive.google.com/)
+
+[Click here to view the text version of "The Song of the Beasts of the Field"](assets/Beasts.pdf)
+
+
+'[![Elephant image](assets/Elephant-video-logo.png)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
+'[![Elephant image](assets/Elephant2.pdf)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
+
+'[Click here to view the text version of "The Song of the Elephant"](assets/Elephant.pdf)
+
+'[![Zebra image](assets/Zebra.pdf)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
 
 [Click here to view the text version of "The Song of the Beasts of the Field"](assets/beasts.pdf)
 

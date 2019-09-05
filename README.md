@@ -10,8 +10,9 @@ of one who involves himself with it.”
 Kraines, upon which these videos are based. It has the approbation of Rabbi Ze’ev Kraines, rabbi of Ohr Somayach Sandton, South Africa.)*
 
 The Song of Existence project is a production of inspirational Torah videos distributed free of charge and intended to reach thousands 
-of viewers worldwide. They are produced one at a time, with no precedent funding to determine the length of the series. The project is 
-therefore dependent entirely on public interest and contribution. All donations are used just to cover costs, which are a modest $230 
+of viewers worldwide. They are producedbi-weekly one at a time, with no precedent funding to determine the length of the series. The 
+project is therefore dependent entirely on public interest and contribution. All donations are used just to cover costs, which are a
+modest $230 
 per professional video. We can only begin the next production after the necessary sponsorship has been made. Donate, dedicate, merit.
 
    # [Click here to sponsor a Perek Shira video via Paypal](http://www.paypal.com)
@@ -57,22 +58,10 @@ Existence", by Shmuel B. Kraines.
 
 # VIDEOS AND THEIR SOURCES
 
-# [The Song of the Elephant Video](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
+# [View The Song of the Elephant Video](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
 
-[Click here to view the text version of "The Song of the Elephant"](assets/Elephant.pdf)
+[Read the text version of "The Song of the Elephant"](assets/Elephant.pdf)
 
-# [The Song of the Beasts of the Field Video](https://drive.google.com/)
+# [View The Song of the Beasts of the Field Video](https://drive.google.com/)
 
-[Click here to view the text version of "The Song of the Beasts of the Field"](assets/Beasts.pdf)
-
-
-'[![Elephant image](assets/Elephant-video-logo.png)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
-'[![Elephant image](assets/Elephant2.pdf)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
-
-'[Click here to view the text version of "The Song of the Elephant"](assets/Elephant.pdf)
-
-'[![Zebra image](assets/Zebra.pdf)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
-
-[Click here to view the text version of "The Song of the Beasts of the Field"](assets/beasts.pdf)
-
-
+[Read the text version of "The Song of the Beasts of the Field"](assets/Beasts.pdf)

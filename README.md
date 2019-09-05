@@ -33,9 +33,9 @@ We thank the supporters of this project. We require $230 per video in order to c
 | Donor   | Donation | Dedication |
 | -----   | :----: | :-------------: |
 |Shmuel Kraines| $230   | The Song of the Elephant            |
-|Shoshana Packouz| $230 |Upcoming Song #2. "May all the men and women searching for their *zivug* be *zocheh* to add their own personal *Shira* to the world"|
-|Miriam Esther Ruderman| $15   | Upcoming Song|            
-|Perlmutter Family|$230|Upcoming Song #3. In loving memory of Yosef Chaim Alter ben Nissel Meir and Chava Leah bas Yosef Leib.|
+|Shoshana Packouz| $230 |The Song of the Dove. "May all the men and women searching for their *zivug* be *zocheh* to add their own personal *Shira* to the world"|
+|Miriam Esther Ruderman| $15   | Revision fees |            
+|Perlmutter Family|$230|The Song of the Beasts of the Field. In loving memory of Yosef Chaim Alter ben Nissel Meir and Chava Leah bas Yosef Leib.|
 
 (Table last updated on 20 Menachem Av)
 
@@ -55,9 +55,15 @@ Existence", by Shmuel B. Kraines.
 
 [Click here for preview](assets/Sample%20Preview.pdf)
 
-# Links
+# Videos and their Sources
 
 [![Elephant image](assets/Elephant-video-logo.png)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
+[![Elephant image](assets/Elephant.jpg)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
 
 [Click here to view the text version of "The Song of the Elephant"](assets/Elephant.pdf)
+
+[![Zebra image](assets/Zebra.jpg)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
+
+[Click here to view the text version of "The Song of the Beasts of the Field](assets/beasts.pdf)
+
 

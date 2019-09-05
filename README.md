@@ -58,12 +58,12 @@ Existence", by Shmuel B. Kraines.
 # Videos and their Sources
 
 [![Elephant image](assets/Elephant-video-logo.png)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
-[![Elephant image](assets/Elephant.jpg)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
+[![Elephant image](assets/Elephant2.pdf)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
 
 [Click here to view the text version of "The Song of the Elephant"](assets/Elephant.pdf)
 
-[![Zebra image](assets/Zebra.jpg)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
+[![Zebra image](assets/Zebra.pdf)](https://drive.google.com/open?id=1nNxtJjymrVlw8ZI8DRUcGYBsp5_ORq3r)
 
-[Click here to view the text version of "The Song of the Beasts of the Field](assets/beasts.pdf)
+[Click here to view the text version of "The Song of the Beasts of the Field"](assets/beasts.pdf)
 
 

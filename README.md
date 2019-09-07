@@ -62,6 +62,6 @@ Existence", by Shmuel B. Kraines.
 
 [Read the text version of "The Song of the Elephant"](assets/Elephant.pdf)
 
-# [View The Song of the Beasts of the Field Video](https://drive.google.com/)
+# [View The Song of the Beasts of the Field Video](https://www.torahanytime.com/#/lectures?v=90335)
 
 [Read the text version of "The Song of the Beasts of the Field"](assets/Beasts.pdf)

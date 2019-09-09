@@ -28,7 +28,8 @@ body {
 	/*this is for the actual content of the body */
 }
 }
-main{margin: 10%;}
+body, main{margin-left: 10px
+;}
 html {
   height: 100%;
 }

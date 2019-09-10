@@ -291,17 +291,3 @@ fieldset[disabled] .btn-desertblue.active {
 .open .dropdown-toggle.btn-secondary { 
   background-color: #C05640!important;
 } 
-
-.full {
- /*background: url(http://placehold.it/1920x1080) no-repeat center center fixed;*/
- background: url("../images/laser_keyboard.jpg") no-repeat center center fixed;
- -webkit-background-size: cover;
- -moz-background-size: cover;
- -o-background-size: cover;
- background-size: cover;
-}
-
-.jumbotron{
-color: #FFFFFF;
-/*background-color:none !important;*/
-}

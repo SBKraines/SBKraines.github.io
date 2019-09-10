@@ -18,7 +18,12 @@ h1 {
 	text-align: center;
 }
 
-
+/*
+#0444bf
+#0584f2
+#0AAFF1
+#EDF259
+#A79674*/
 /*this makes the footer stick */
 body {
 	/* this is for body strucutre to allow footer to work*/
@@ -28,7 +33,8 @@ body {
 	/*this is for the actual content of the body */
 }
 }
-main{margin: 10%;}
+body, main{margin-left: 10px
+;}
 html {
   height: 100%;
 }

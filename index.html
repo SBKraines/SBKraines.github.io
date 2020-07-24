@@ -12,10 +12,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Bootstrap CSS and JS -->
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="css/bootstrap-4.3.1-dist/bootstrap.min.css">
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <!-- Latest compiled JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    <!-- CSS only -->
+    <link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+          integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" rel="stylesheet">
     <!-- page CSS -->
     <link rel="stylesheet" type="text/css" media="all" href="css/global.css">
     <link rel="stylesheet" t...ype="text/css" media="all" href="css/custom.css">
@@ -38,11 +37,8 @@
     <meta name="theme-color" content="#ffffff">
     <!--[if IE 9]>
     <link href="https://cdn.jsdelivr.net/gh/coliff/bootstrap-ie8/css/bootstrap-ie9.min.css" rel="stylesheet">
-    <! this code makes sure Bootstrap 4 works in IE8 and IE9. These internet browsers are hardly used anymore so Bootstrap dropped support yet in case I used this poly filler from https://christianoliff.com/blog/bootstrap4-for-ie8-ie9 <--[if IE 9]!>
-    <link href="https://cdn.jsdelivr.net/gh/coliff/bootstrap-ie8/css/bootstrap-ie9.min.css" rel="stylesheet">
     <![endif]-->
     <!--[if lte IE 8]>
-    <link href="https://cdn.jsdelivr.net/gh/coliff/bootstrap-ie8/css/bootstrap-ie8.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/g/html5shiv@3.7.3"></script>
     <![endif]-->
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -165,6 +161,21 @@
         </div>
     </div>
 </div>
+<!-- Modal -->
+<div class="modal fade" id="videoModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-dark border-dark">
+                <button class="close text-white" data-dismiss="modal" type="button">&times;</button>
+            </div>
+            <div class="modal-body bg-dark p-0">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe allowfullscreen class="embed-responsive-item"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <main>
     <section id=About>
         <h2>About</h2>
@@ -231,7 +242,7 @@
 
                     </div>
                     <div style="padding: 0px 1.25rem 1.25rem;">
-                        <a href="https://www.torahanytime.com/embed/?v=89584" target="_blank" class="btn btn-custom">Watch Video</a>
+                        <button class="btn btn-custom" data-target="#videoModal" data-toggle="modal" data-video="https://www.torahanytime.com/embed/?v=89584">Watch Video</button>
                         <a href="/assets/Elephant.pdf" target="_blank" class="btn btn-secondary">Read Inside</a>
                     </div>
                     <div class="card-footer">
@@ -254,7 +265,9 @@
                         </div>
                     </div>
                     <div style="padding: 0px 1.25rem 1.25rem;">
-                        <a href="https://www.torahanytime.com/embed/?v=90335" target="_blank" class="btn btn-custom">Watch Video</a>
+                        <button class="btn btn-custom" data-target="#videoModal" data-toggle="modal" data-video="https://www.torahanytime.com/embed/?v=90335" target="_blank">Watch
+                            Video
+                        </button>
                         <a href="assets/Beasts.pdf" target="_blank" class="btn btn-secondary">Read Inside</a>
                     </div>
                     <div class="card-footer text-center">
@@ -281,7 +294,9 @@
                         </div>
                     </div>
                     <div style="padding: 0px 1.25rem 1.25rem;">
-                        <a href="https://www.torahanytime.com/embed/?v=91607" target="_blank" class="btn btn-custom">Watch Video</a>
+                        <button class="btn btn-custom" data-target="#videoModal" data-toggle="modal" data-video="https://www.torahanytime.com/embed/?v=91607" target="_blank">Watch
+                            Video
+                        </button>
                         <a href="assets/Dove.pdf" target="_blank" class="btn btn-secondary">Read Inside</a>
                     </div>
                     <div class="card-footer text-center">
@@ -304,7 +319,9 @@
                         </div>
                     </div>
                     <div style="padding: 0px 1.25rem 1.25rem;">
-                        <a href="https://www.torahanytime.com/embed/?v=94294" target="_blank" class="btn btn-custom">Watch Video</a>
+                        <button class="btn btn-custom" data-target="#videoModal" data-toggle="modal" data-video="https://www.torahanytime.com/embed/?v=94294" target="_blank">Watch
+                            Video
+                        </button>
                         <a href="assets/Ant.pdf" target="_blank" class="btn btn-secondary">Read Inside</a>
                     </div>
                     <div class="card-footer text-center">
@@ -327,7 +344,9 @@
                         </div>
                     </div>
                     <div style="padding: 0px 1.25rem 1.25rem;">
-                        <a href="https://www.torahanytime.com/embed/?v=95646" target="_blank" class="btn btn-custom">Watch Video</a>
+                        <button class="btn btn-custom" data-target="#videoModal" data-toggle="modal" data-video="https://www.torahanytime.com/embed/?v=95646" target="_blank">Watch
+                            Video
+                        </button>
                         <a href="assets/SymbolofLionInJudiasm.pdf" target="_blank" class="btn btn-secondary">Read Inside</a>
                     </div>
                     <div class="card-footer text-center">
@@ -350,7 +369,9 @@
                         </div>
                     </div>
                     <div style="padding: 0px 1.25rem 1.25rem;">
-                        <a href="https://www.torahanytime.com/embed/?v=96556" target="_blank" class="btn btn-custom">Watch Video</a>
+                        <button class="btn btn-custom" data-target="#videoModal" data-toggle="modal" data-video="https://www.torahanytime.com/embed/?v=96556" target="_blank">Watch
+                            Video
+                        </button>
                         <a href="assets/Horse.pdf" target="_blank" class="btn btn-secondary">Read Inside</a>
                     </div>
                     <div class="card-footer text-center">
@@ -372,7 +393,9 @@
                         </div>
                     </div>
                     <div style="padding: 0px 1.25rem 1.25rem;">
-                        <a href="https://www.torahanytime.com/embed/?v=99261" target="_blank" class="btn btn-custom">Watch Video</a>
+                        <button class="btn btn-custom" data-target="#videoModal" data-toggle="modal" data-video="https://www.torahanytime.com/embed/?v=99261" target="_blank">Watch
+                            Video
+                        </button>
                         <a href="assets/Deer.pdf" target="_blank" class="btn btn-secondary">Read Inside</a>
                     </div>
                     <div class="card-footer text-center">
@@ -399,7 +422,9 @@
                         </div>
                     </div>
                     <div style="padding: 0px 1.25rem 1.25rem;">
-                        <a href="https://www.torahanytime.com/embed/?v=100666" target="_blank" class="btn btn-custom">Watch Video</a>
+                        <button class="btn btn-custom" data-target="#videoModal" data-toggle="modal" data-video="https://www.torahanytime.com/embed/?v=100666" target="_blank">Watch
+                            Video
+                        </button>
                         <a href="assets/Dog.pdf" target="_blank" class="btn btn-secondary">Read Inside</a>
                     </div>
                     <div class="card-footer text-center">
@@ -420,7 +445,9 @@
                         </div>
                     </div>
                     <div style="padding: 0px 1.25rem 1.25rem;">
-                        <a href="https://www.torahanytime.com/embed/?v=105914" target="_blank" class="btn btn-custom">Watch Video</a>
+                        <button class="btn btn-custom" data-target="#videoModal" data-toggle="modal" data-video="https://www.torahanytime.com/embed/?v=105914" target="_blank">Watch
+                            Video
+                        </button>
                         <a href="assets/Fish.pdf" target="_blank" class="btn btn-secondary">Read Inside</a>
                     </div>
                     <div class="card-footer text-center">
@@ -442,7 +469,9 @@
                         </div>
                     </div>
                     <div style="padding: 0px 1.25rem 1.25rem;">
-                        <a href="https://www.torahanytime.com/embed/?v=114481" target="_blank" class="btn btn-custom">Watch Video</a>
+                        <button class="btn btn-custom" data-target="#videoModal" data-toggle="modal" data-video="https://www.torahanytime.com/embed/?v=114481" target="_blank">Watch
+                            Video
+                        </button>
                         <a href="assets/Oceantext.pdf" target="_blank" class="btn btn-secondary">Read Inside</a>
                     </div>
                     <div class="card-footer text-center">
@@ -566,6 +595,7 @@
             You can email us at this address to confer and to dedicate. </p>
     </section>
 </main>
+
 <footer>
     <div class=site-footer>
         <div class="footer-container">
@@ -596,15 +626,30 @@
     </div>
 </footer>
 <!-- Optional JavaScript -->
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
-        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-        crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
-        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
-        crossorigin="anonymous"></script>
+
+<!-- JS, Popper.js, and jQuery -->
+<script crossorigin="anonymous" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script crossorigin="anonymous" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+<script crossorigin="anonymous" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+        src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+<script>
+    $(document).ready(function () {
+        // Set iframe attributes when the show instance method is called
+        $("#videoModal").on("show.bs.modal", function (event) {
+            let button = $(event.relatedTarget); // Button that triggered the modal
+            let url = button.data("video");      // Extract url from data-video attribute
+            $(this).find("iframe").attr({
+                src: url,
+                allow: "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            });
+        });
+
+        // Remove iframe attributes when the modal has finished being hidden from the user
+        $("#videoModal").on("hidden.bs.modal", function () {
+            $("#videoModal iframe").removeAttr("src allow");
+        });
+    });
+</script>
 </body>
 </html>
